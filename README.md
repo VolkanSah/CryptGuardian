@@ -11,7 +11,7 @@ Increase the cost, complexity, and feasibility barrier for attackers.
 No system is unbreakable — but it can be made impractical to break.
 
 Version: **v0.3-alpha (Quantum Leap)**
-Copyright © 2025 NCF
+Copyright © 2025-2026 NCF BadTin & VolkanSah
 
 
 ## Purpose
